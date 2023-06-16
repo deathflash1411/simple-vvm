@@ -1,0 +1,3 @@
+T1190 Exploit Public-Facing Application
+T1555 Credentials from Password Stores
+T1078.003 Valid Accounts: Local Accounts
